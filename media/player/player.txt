@@ -1,0 +1,4 @@
+0-unused
+1-standing
+2,3,4,3-running
+5-jump

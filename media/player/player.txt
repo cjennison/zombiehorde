@@ -2,3 +2,5 @@
 1-standing
 2,3,4,3-running
 5-jump
+6-unused for now
+7-unused for now
